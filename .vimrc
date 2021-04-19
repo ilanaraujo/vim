@@ -82,6 +82,5 @@ Plugin 'jnurmine/Zenburn'
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'vim-airline/vim-airline'
 Plugin 'jiangmiao/auto-pairs'
-Plugin 'zxqfl/tabnine-vim'
 call vundle#end()
 filetype plugin indent on
